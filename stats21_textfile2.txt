@@ -1,1 +1,3 @@
 This is Joyce's second text file for stats21 hw1 task1. 
+
+This is Joyce's second additional commit for stats21 hw1 task1
